@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+  background-color: #E5E5E5;
+}
+*{
+  font-family: 'Open Sans', sans-serif;
+  }
+
+  .primary-bg{
+    background-color:#013055;
+  }
+
+  .primary-text{
+    color: #013055;
+  }
+
+  .secondary-bg{
+    background-color: #C89C53;
+  }
+
+  .secondary-text{
+    color: #C89C53
+  }

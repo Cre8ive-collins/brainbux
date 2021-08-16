@@ -1,0 +1,43 @@
+.hero{
+  position: relative;
+}
+
+.button-container{
+  margin-top: 2rem;
+  position: absolute;
+  bottom: 0;
+}
+
+.paragraph{
+  height: max-content;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+
+.singleWalkthrough{
+  margin-top: 5rem;
+  /* margin-bottom: 5rem; */
+}
+
+.containerGuter{
+  margin-top: 10rem;
+}
+
+.catText{
+  color: rgba(51, 49, 49, 0.432);
+}
+
+.catDesc{
+margin-top: 0.25rem;
+margin-bottom: 0.25rem;
+}
+
+.band{
+  /* height: 10vh; */
+  background-color: #C89C53;
+}
+
+.band1{
+  padding-left: 0;
+}

@@ -1,0 +1,17 @@
+{
+  "categories" : {
+    "primary" : [
+      "basic one",
+      "basic two",
+      "basic three",
+      "basic four",
+      "basic five",
+      "basic six"
+    ],
+    "secondary" : [
+      "Jss one",
+      "Jss two",
+      "Jss three"
+    ]
+  }
+}
